@@ -99,6 +99,8 @@ agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
 ## OUTPUT
-[AI-UNIT 1-Review.pptx](https://github.com/user-attachments/files/16887714/AI-UNIT.1-Review.pptx)
+![308086712-210720af-15a6-47a5-acc4-65f62579e7c3](https://github.com/user-attachments/assets/9aea9d7e-6ade-480c-aa0f-fec6da38a2bf)
+
+
 ## RESULT
 Thus, an AI agent is developed.
